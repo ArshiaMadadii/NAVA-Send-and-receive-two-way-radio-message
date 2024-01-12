@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=VR1-1
+Removed Pin From Net: NetName=NetLCD_3 Pin=VR1-2
+Removed Pin From Net: NetName=+5 Pin=VR1-3
+Added Component: Designator=VR1(TRIM_3296W-OT1-103)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/3296W-OT1-103/Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3296W-OT1-103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-5 Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3296W-OT1-103/Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=VR1-1
+Added Pin To Net: NetName=NetLCD_3 Pin=VR1-2
+Added Pin To Net: NetName=+5 Pin=VR1-3

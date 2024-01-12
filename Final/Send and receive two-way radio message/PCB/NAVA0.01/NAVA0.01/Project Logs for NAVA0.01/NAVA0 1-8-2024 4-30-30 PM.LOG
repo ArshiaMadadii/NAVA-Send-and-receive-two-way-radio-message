@@ -1,0 +1,169 @@
+Added Component: Designator=Atmega 16(My_40P6)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.atmel.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/doc2466.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2466E-AVR-10/02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 40 Leads; Row Spacing 15.24 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "40P6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Dec-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Sep-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C1(Cap - 100nF - 400V)
+Add component (AddParameter): Name = "Adding Date"; Value = "1387/12/20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Saeid Jorablo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Organazation"; Value = "ControTec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "500nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=Clear(Switch - Push to On)
+Added Component: Designator=INPUT(HANDSON_KF301-2P)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "KF301-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=KeyPAD(My_2X08)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=LCD(LCD_LCD2X16)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LCD2X16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED BLUE(LED5MM_BLUE)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part.No"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED RED(LED5MM_RED)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part.No"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES-(1/1))
+Add component (AddParameter): Name = "Designer"; Value = "Ali Hafizi"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES-(1/1))
+Add component (AddParameter): Name = "Designer"; Value = "Ali Hafizi"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES-(1/1))
+Add component (AddParameter): Name = "Designer"; Value = "Ali Hafizi"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES-(1/1))
+Add component (AddParameter): Name = "Designer"; Value = "Ali Hafizi"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES-(1/1))
+Add component (AddParameter): Name = "Designer"; Value = "Ali Hafizi"; VariantName = "[No Variations]"
+Added Component: Designator=Reset(Switch - Push to On)
+Added Component: Designator=RF_RX(My_1X04)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=RF_TX(My_1X03)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Send(Switch - Push to On)
+Add Component: Footprint Not Found TRIM_3296W-OT1-204
+Added Pin To Net: NetName=NetAtmega 16_1 Pin=Atmega 16-1
+Added Pin To Net: NetName=NetAtmega 16_2 Pin=Atmega 16-2
+Added Pin To Net: NetName=NetAtmega 16_3 Pin=Atmega 16-3
+Added Pin To Net: NetName=NetAtmega 16_4 Pin=Atmega 16-4
+Added Pin To Net: NetName=NetAtmega 16_5 Pin=Atmega 16-5
+Added Pin To Net: NetName=NetAtmega 16_6 Pin=Atmega 16-6
+Added Pin To Net: NetName=NetAtmega 16_7 Pin=Atmega 16-7
+Added Pin To Net: NetName=NetAtmega 16_9 Pin=Atmega 16-9
+Added Pin To Net: NetName=+5 Pin=Atmega 16-10
+Added Pin To Net: NetName=GND Pin=Atmega 16-11
+Added Pin To Net: NetName=NetAtmega 16_14 Pin=Atmega 16-14
+Added Pin To Net: NetName=NetAtmega 16_15 Pin=Atmega 16-15
+Added Pin To Net: NetName=NetAtmega 16_16 Pin=Atmega 16-16
+Added Pin To Net: NetName=NetAtmega 16_17 Pin=Atmega 16-17
+Added Pin To Net: NetName=NetAtmega 16_22 Pin=Atmega 16-22
+Added Pin To Net: NetName=NetAtmega 16_23 Pin=Atmega 16-23
+Added Pin To Net: NetName=NetAtmega 16_24 Pin=Atmega 16-24
+Added Pin To Net: NetName=NetAtmega 16_26 Pin=Atmega 16-26
+Added Pin To Net: NetName=NetAtmega 16_27 Pin=Atmega 16-27
+Added Pin To Net: NetName=NetAtmega 16_28 Pin=Atmega 16-28
+Added Pin To Net: NetName=NetAtmega 16_29 Pin=Atmega 16-29
+Added Pin To Net: NetName=+5 Pin=Atmega 16-30
+Added Pin To Net: NetName=GND Pin=Atmega 16-31
+Added Pin To Net: NetName=+5 Pin=Atmega 16-32
+Added Pin To Net: NetName=NetAtmega 16_39 Pin=Atmega 16-39
+Added Pin To Net: NetName=NetAtmega 16_40 Pin=Atmega 16-40
+Added Pin To Net: NetName=NetAtmega 16_9 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetClear_1 Pin=Clear-1
+Added Pin To Net: NetName=NetClear_1 Pin=Clear-1
+Added Pin To Net: NetName=NetAtmega 16_16 Pin=Clear-2
+Added Pin To Net: NetName=NetAtmega 16_16 Pin=Clear-2
+Added Pin To Net: NetName=+5 Pin=INPUT-1
+Added Pin To Net: NetName=GND Pin=INPUT-2
+Added Pin To Net: NetName=NetAtmega 16_1 Pin=KeyPAD-2
+Added Pin To Net: NetName=NetAtmega 16_2 Pin=KeyPAD-4
+Added Pin To Net: NetName=NetAtmega 16_3 Pin=KeyPAD-6
+Added Pin To Net: NetName=NetAtmega 16_4 Pin=KeyPAD-8
+Added Pin To Net: NetName=NetAtmega 16_5 Pin=KeyPAD-10
+Added Pin To Net: NetName=NetAtmega 16_6 Pin=KeyPAD-12
+Added Pin To Net: NetName=NetAtmega 16_7 Pin=KeyPAD-14
+Added Pin To Net: NetName=GND Pin=LCD-1
+Added Pin To Net: NetName=+5 Pin=LCD-2
+Added Pin To Net: NetName=NetLCD_3 Pin=LCD-3
+Added Pin To Net: NetName=NetAtmega 16_22 Pin=LCD-4
+Added Pin To Net: NetName=NetAtmega 16_23 Pin=LCD-5
+Added Pin To Net: NetName=NetAtmega 16_24 Pin=LCD-6
+Added Pin To Net: NetName=NetAtmega 16_26 Pin=LCD-11
+Added Pin To Net: NetName=NetAtmega 16_27 Pin=LCD-12
+Added Pin To Net: NetName=NetAtmega 16_28 Pin=LCD-13
+Added Pin To Net: NetName=NetAtmega 16_29 Pin=LCD-14
+Added Pin To Net: NetName=NetLED BLUE_1 Pin=LED BLUE-1
+Added Pin To Net: NetName=GND Pin=LED BLUE-2
+Added Pin To Net: NetName=NetLED RED_1 Pin=LED RED-1
+Added Pin To Net: NetName=GND Pin=LED RED-2
+Added Pin To Net: NetName=NetAtmega 16_40 Pin=R1-1
+Added Pin To Net: NetName=NetLED BLUE_1 Pin=R1-2
+Added Pin To Net: NetName=NetAtmega 16_39 Pin=R2-1
+Added Pin To Net: NetName=NetLED RED_1 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetClear_1 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetAtmega 16_9 Pin=R5-1
+Added Pin To Net: NetName=+5 Pin=R5-2
+Added Pin To Net: NetName=GND Pin=Reset-1
+Added Pin To Net: NetName=GND Pin=Reset-1
+Added Pin To Net: NetName=NetAtmega 16_9 Pin=Reset-2
+Added Pin To Net: NetName=NetAtmega 16_9 Pin=Reset-2
+Added Pin To Net: NetName=GND Pin=RF_RX-1
+Added Pin To Net: NetName=NetAtmega 16_14 Pin=RF_RX-2
+Added Pin To Net: NetName=+5 Pin=RF_RX-4
+Added Pin To Net: NetName=NetAtmega 16_15 Pin=RF_TX-1
+Added Pin To Net: NetName=+5 Pin=RF_TX-2
+Added Pin To Net: NetName=GND Pin=RF_TX-3
+Added Pin To Net: NetName=NetR4_2 Pin=Send-1
+Added Pin To Net: NetName=NetR4_2 Pin=Send-1
+Added Pin To Net: NetName=NetAtmega 16_17 Pin=Send-2
+Added Pin To Net: NetName=NetAtmega 16_17 Pin=Send-2
+Add Pin To Net: Unknown Pin: Pin VR1-1
+Add Pin To Net: Unknown Pin: Pin VR1-2
+Add Pin To Net: Unknown Pin: Pin VR1-3
+Added Member To Class: ClassName=NAVA0.01 Member=Component Atmega 16 ATmega16-16PI
+Added Member To Class: ClassName=NAVA0.01 Member=Component C1 500nF
+Added Member To Class: ClassName=NAVA0.01 Member=Component Clear Switch PB
+Added Member To Class: ClassName=NAVA0.01 Member=Component INPUT KF301-2P
+Added Member To Class: ClassName=NAVA0.01 Member=Component KeyPAD Header 8X2
+Added Member To Class: ClassName=NAVA0.01 Member=Component LCD LCD2X16
+Added Member To Class: ClassName=NAVA0.01 Member=Component LED BLUE ON-RECIEVE
+Added Member To Class: ClassName=NAVA0.01 Member=Component LED RED ON-SEND
+Added Member To Class: ClassName=NAVA0.01 Member=Component R1 2.2k
+Added Member To Class: ClassName=NAVA0.01 Member=Component R2 2.2K
+Added Member To Class: ClassName=NAVA0.01 Member=Component R3 220
+Added Member To Class: ClassName=NAVA0.01 Member=Component R4 220
+Added Member To Class: ClassName=NAVA0.01 Member=Component R5 1K
+Added Member To Class: ClassName=NAVA0.01 Member=Component Reset Switch PB
+Added Member To Class: ClassName=NAVA0.01 Member=Component RF_RX Header 4
+Added Member To Class: ClassName=NAVA0.01 Member=Component RF_TX Header 3
+Added Member To Class: ClassName=NAVA0.01 Member=Component Send Switch PB
+Add Class Member: Failed to add class member : Component VR1 3296W-OT1-204

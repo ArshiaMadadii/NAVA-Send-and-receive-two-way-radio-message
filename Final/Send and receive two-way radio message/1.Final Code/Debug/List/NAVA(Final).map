@@ -1,0 +1,48 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+str                                                                               0x0177      16
+rx_buffer                                                                         0x0187      15
+_base_y                                                                           0x0196       4
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+num                                                                               R4,R5        2
+number                                                                            R6,R7        2
+p                                                                                 R2.0      1bit
+rx_rd_index                                                                       R9           1
+rx_wr_index                                                                       R8           1
+rx_counter                                                                        R11          1
+rx_buffer_overflow                                                                R2.1      1bit
+_lcd_x                                                                            R10          1
+_lcd_y                                                                            R13          1
+_lcd_maxx                                                                         R12          1
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+show                                                                              0x00086     16
+keyboard                                                                          0x00096     98
+ext_int0_isr                                                                      0x000F8     11
+ext_int1_isr                                                                      0x00103     13
+usart_rx_isr                                                                      0x00110     73
+main                                                                              0x00159     33
+_lcd_write_nibble_G100                                                            0x0017A     21
+_lcd_write_data                                                                   0x0018F     12
+lcd_gotoxy                                                                        0x0019B     13
+lcd_clear                                                                         0x001A8     12
+lcd_putchar                                                                       0x001B4     21
+lcd_puts                                                                          0x001C9     10
+lcd_init                                                                          0x001D3     44
+putchar                                                                           0x001FF      7
+puts                                                                              0x00206     14
+put_buff_G101                                                                     0x00214     64
+_print_G101                                                                       0x00254    308
+sprintf                                                                           0x00388     52
+strlen                                                                            0x003BC     12
+strlenf                                                                           0x003C8     13
